@@ -87,10 +87,9 @@ Or install it yourself as:
 | Extstock          | Y       | Y          | Y       |         | Y           |
 | Exx               | Y       | Y          | Y       |         | Y           |
 | Fisco             | Y       | Y          | Y       |         | Y           |
-| Forkdelta         | Y       | N          | N       |         | Y           |
 | Gate              | Y       | Y          | Y       |         | Y           |
 | Gatecoin          | Y       |            |         |         | Y           |
-| GDAX              | Y       |            |         |         | Y           |
+| GDAX              | Y       | Y          | Y       |         | Y           |
 | Gemini            | Y       | Y          | Y       |         | Y           |
 | GetBTC            | Y       | Y          | Y       |         | User-Defined|
 | GOPAX             | Y       | Y          | Y       |         | Y           |
@@ -135,7 +134,6 @@ Or install it yourself as:
 | RightBTC          | Y       | Y          | Y       |         | Y           |
 | SouthXchange      | Y       | Y          | Y       |         | Y           |
 | Stocks Exchange   | Y       |            |         |         | Y           |
-| Switcheo          | Y       | N          | N       |         | Y           |
 | SZZC              | Y       |            |         |         | Y           |
 | The Rock Trading  | Y       |            |         |         | Y           |
 | Tidex             | Y       |            |         |         | Y           |
